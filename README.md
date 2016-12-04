@@ -6,3 +6,5 @@ Supports UTF-8
 Doesn't support multiple profiles!
 
 It does everything in one window and tab!
+
+and actually downloads every seen title!
